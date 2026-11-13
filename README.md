@@ -1,16 +1,19 @@
-# untitled
+# Dicee
 
-A new Flutter project.
+> 📚 **Learning project** — built while following Angela Yu's *Complete Flutter Development Bootcamp*. Kept as a record of my progress; not actively maintained.
 
-## Getting Started
+Roll two dice with a tap.
 
-This project is a starting point for a Flutter application.
+**Stack:** Flutter, `StatefulWidget`
 
-A few resources to get you started if this is your first Flutter project:
+## Run it
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 👤 Author
+
+**Yasser Korzane** — Flutter & Go developer · [GitHub](https://github.com/yasseresi) · [LinkedIn](https://www.linkedin.com/in/korzane-yasser)
